@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Oneko Say</title>
-    <link>https://oneko010.github.io/</link>
-    <description>Recent content on Oneko Say</description>
+    <title>Posts on Oneko Say</title>
+    <link>https://oneko010.github.io/post/</link>
+    <description>Recent content in Posts on Oneko Say</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jun 2022 08:47:31 +0800</lastBuildDate><atom:link href="https://oneko010.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jun 2022 08:47:31 +0800</lastBuildDate><atom:link href="https://oneko010.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>升级电脑</title>
       <link>https://oneko010.github.io/post/upgrade-computer/</link>
